@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://columbusseptictank.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://columbusseptictank.com/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://columbusseptictank.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://columbusseptictank.com/services/septic-tank-pumping/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusseptictank.com/services/septic-tank-inspection/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusseptictank.com/services/septic-repair/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusseptictank.com/services/septic-installation/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusseptictank.com/services/drain-field-repair/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusseptictank.com/services/emergency-septic-service/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusseptictank.com/contact/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
